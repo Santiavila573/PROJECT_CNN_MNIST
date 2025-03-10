@@ -50,8 +50,8 @@ Una vez configurado el entorno, puedes ejecutar el proyecto con los siguientes p
    ```bash
    python main.py
 ### Estructura del Proyecto
-- La organización del proyecto es la siguiente:
-  ![image](https://github.com/user-attachments/assets/bf3e9091-8056-4372-8ae8-85f9adeba919)
+
+![image](https://github.com/user-attachments/assets/bf3e9091-8056-4372-8ae8-85f9adeba919)
   
 ### Resultados
 - Precisión del Modelo: El modelo alcanza una precisión aproximada de 98-99% en el conjunto de prueba.
